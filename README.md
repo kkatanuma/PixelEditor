@@ -1,7 +1,7 @@
 # PixelEditor
 Pixel Editor Created for University Coursework 
 
-#Contributors 
+##Contributors 
 Bryce Radle 
 Cole Phillips
 Keita Katanuma
