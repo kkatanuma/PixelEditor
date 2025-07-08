@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Resources/stamp">
+        <file>Resources/stamp/yellowSprite.png</file>
+        <file>Resources/stamp/blueSprite.png</file>
+        <file>Resources/stamp/warriorSprite.png</file>
+        <file>Resources/stamp/crabSprite.png</file>
+    </qresource>
+</RCC>
