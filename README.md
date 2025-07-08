@@ -1,29 +1,28 @@
-# PixelEditor
-Pixel Editor Created for University Coursework 
+# ピクセルエディター
+ユタ州大学の課題　C++ Software Development コースの課題
 
-## Contributors 
-Bryce Radle 
-Cole Phillips
-Keita Katanuma
-Maxwell Gestland
+制作期間 2週間
+開発人数 4人
 
-## Language and Tools 
-Pixel Editor was developed in C++ with the QT framework 
+## コントリビューター
+-Bryce Radle 
+-Cole Phillips
+-Keita Katanuma
+-Maxwell Gestland
 
-## Features 
-Pixel Manipulations
+## 開発環境
+-QT Framework
+-C++ 
+-Github
 
-Color Selection 
-
-Sprite Preview
-
-Premade Stamps/Templates
-
-Adding/Deleting Frames 
-
-Sprite Preview 
-
-Gif compatibility 
+## 機能
+-ピクセルの描画と消しゴム機能
+-描画カラーの変更
+-解像度の変更
+-スプライトプレビュー
+-スタンプ機能
+-フレームの追加・削除
+-GIFファイルへの対応
 
 
 
