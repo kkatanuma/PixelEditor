@@ -12,11 +12,17 @@ Pixel Editor was developed in C++ with the QT framework
 
 ## Features 
 Pixel Manipulations
+
 Color Selection 
-Sprite Preview 
+
+Sprite Preview
+
 Premade Stamps/Templates
+
 Adding/Deleting Frames 
+
 Sprite Preview 
+
 Gif compatibility 
 
 
