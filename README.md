@@ -3,6 +3,8 @@
 制作期間 2週間  
 開発人数 4人
 
+![alt text](https://github.com/kkatanuma/PixelEditor/blob/main/Image/PixelEditor_1.png "Figure 1")
+
 ## コントリビューター
 Bryce Radle  
 Cole Phillips  
